@@ -1,0 +1,31 @@
+_repo: Matti-Pohto-Vanhojen-suomalaisten-kirjain-pelastaja_69195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Virkkunen, Artturi H. (Artturi Heikki)
+    alias: Virkkunen, A. H.
+    birthdate: 1864
+    deathdate: 1924
+    gutenberg_agent_id: '55159'
+    url: http://www.gutenberg.org/2009/agents/55159
+    wikipedia: https://fi.wikipedia.org/wiki/Artturi_H._Virkkunen
+description: ''
+gutenberg_issued: '2022-10-21'
+identifiers:
+  gutenberg: '69195'
+language: fi
+pgterms:marc905: 20220621091443virkkunen
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: 'Finland: Otava,1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bibliomania'
+- !lcsh 'Pohto, Matti, 1817-1857'
+- !lcc 'Z'
+- GITenberg
+title: 'Matti Pohto: Vanhojen suomalaisten kirjain pelastaja'
+url: http://www.gutenberg.org/ebooks/69195
