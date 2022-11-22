@@ -1,5 +1,8 @@
 _repo: Matti-Pohto-Vanhojen-suomalaisten-kirjain-pelastaja_69195
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Virkkunen, Artturi H. (Artturi Heikki)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55159
     wikipedia: https://fi.wikipedia.org/wiki/Artturi_H._Virkkunen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69195#Matti-Pohto-Vanhojen-suomalaisten-kirjain-pelastaja
 gutenberg_issued: '2022-10-21'
 identifiers:
   gutenberg: '69195'
